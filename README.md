@@ -11,3 +11,10 @@ Este repositório contém um exercício de Web Scraping desenvolvido durante o c
 ✅ Coleta de dados de páginas da web  
 ✅ Processamento e estruturação das informações extraídas  
 ✅ Exemplo prático de Web Scraping  
+
+## Instalação das dependências
+
+Para instalar as dependências do projeto, basta executar o seguinte comando:
+
+```bash
+pip install -r requirements.txt
