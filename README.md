@@ -1,4 +1,4 @@
-# Web Scraping com Python - EBAC  
+# Web Scraping com Python
 
 Este repositório contém um exercício de Web Scraping desenvolvido durante o curso da EBAC. Utilizando as bibliotecas `requests` e `BeautifulSoup`, o projeto extrai e processa informações de páginas da web de forma automatizada.  
 
